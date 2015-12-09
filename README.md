@@ -1,6 +1,8 @@
 E5R ALM (Application Lifecycle Management)
 ==========================================
 
+> Versão __1.0.0-alpha1__
+
 Este repositório contém um guia prático para implantação do Gerenciamento de Ciclo de Vida de Aplicativos (ALM - Application Lifecycle Management) em um time de desenvolvimento sem experiência no assunto, ou em um time experiente, porém, que precisa implantar ALM em uma fábrica com processos legados.O time de desenvolvimento E5R ([E5R Development Team][E5R]) usa esse guia prático como processo oficial de ALM.
 
 ## Motivação
