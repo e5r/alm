@@ -59,4 +59,4 @@ Para estudar este guia leia os arquivos contidos no diretório __DOC__ deste rep
 [RUP_WIKI]: https://pt.wikipedia.org/wiki/IBM_Rational_Unified_Process "RUP"
 [TI_WIKI]: https://pt.wikipedia.org/wiki/Tecnologia_da_informa%C3%A7%C3%A3o
 [NOTICIA_FALTA_TI]: http://classificados.folha.uol.com.br/empregos/2014/06/1466085-faltam-45-mil-profissionais-de-ti-no-brasil.shtml
-[INDEX_DOC]: doc/INDEXmd
+[INDEX_DOC]: doc/INDEX.md
