@@ -25,13 +25,13 @@ Este guia é desenvolvido e entregue de forma incremental, seguindo o próprio m
 
 Dessa forma, uma versão final e mais completa do processo estará sempre disponível abrangendo o maior número de cenários possíveis e com um maior número de projetos corporativos aderentes. Mas também, um processo mais simples sempre poderá ser seguido usando versões anteriores. E ainda, mesmo que a versão final e mais completa desse guia seja a mais adequada ao projeto requerido, sempre se poderá usar o incremento das versões como forma de capacitar os novos membros da equipe; atendendo desde aos menos experientes com o estudo à partir da primeira versão, quanto aos mais experientes à partir do ponto em que for mais adequado na linha de liberação de versões.
 
-### Implantando este processo em seu projeto/corporação usando este guia?
+### Implantando o processo em seu projeto/corporação usando este guia?
 
 Para implantar o processo de ALM apresentado neste guia em um projeto e/ou corporação, siga os passos abaixo:
 
 1. Publique em um canal oficial de sua corporação/equipe uma nota de aderência ao processo ALM deste guia,
    incluindo a versão adotada, e na nota a explícita aceitação aos termos da licença disponível no
-   arquivo _LICENSE_;
+   arquivo _[LICENSE.txt][LICENSE]_;
 2. Caso haja aceitação a novas versões, essa deve ser divulgada novamente no canal oficial;
 3. Treinar sua equipe e seguí-lo.
 
@@ -60,3 +60,4 @@ Para estudar este guia leia os arquivos contidos no diretório __DOC__ deste rep
 [TI_WIKI]: https://pt.wikipedia.org/wiki/Tecnologia_da_informa%C3%A7%C3%A3o
 [NOTICIA_FALTA_TI]: http://classificados.folha.uol.com.br/empregos/2014/06/1466085-faltam-45-mil-profissionais-de-ti-no-brasil.shtml
 [INDEX_DOC]: doc/INDEX.md
+[LICENSE]: LICENSE.txt
