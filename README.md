@@ -25,7 +25,7 @@ Este guia é desenvolvido e entregue de forma incremental, seguindo o próprio m
 
 Dessa forma, uma versão final e mais completa do processo estará sempre disponível abrangendo o maior número de cenários possíveis e com um maior número de projetos corporativos aderentes. Mas também, um processo mais simples sempre poderá ser seguido usando versões anteriores. E ainda, mesmo que a versão final e mais completa desse guia seja a mais adequada ao projeto requerido, sempre se poderá usar o incremento das versões como forma de capacitar os novos membros da equipe; atendendo desde aos menos experientes com o estudo à partir da primeira versão, quanto aos mais experientes à partir do ponto em que for mais adequado na linha de liberação de versões.
 
-### Implantando este processo em seu projeto/corporação usando este guia?
+### Quer implantar este processo em seu projeto/corporação?
 
 Para implantar o processo de ALM apresentado neste guia em um projeto e/ou corporação, siga os passos abaixo:
 
