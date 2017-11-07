@@ -2,7 +2,10 @@ Projeto de Especificação
 ========================
 
 Um projeto de especificação é um projeto (repositório diferente, ou um diretório `doc` no projeto original)
-que contém de forma textual todos os elementos básicos da especificação em forma de arquivos e hiperligados.
+que contém todos os elementos básicos da especificação em forma de arquivos textuais hiperligados. Dessa forma
+pode evoluir (versões) junto ao próprio sowftware.
+
+> Tanto o software quanto sua documentação são incrementais e evolutíveis.
 
 Contento por exemplo:
 
