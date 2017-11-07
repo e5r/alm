@@ -81,6 +81,7 @@ Para produzir um sóftware precisamos seguir o fluxo:
  * Categorizar Órgãos: Quanso se chega ao final, com o produto entregue é possível
    dizer a que categoria pertence cada órgão.
  * Decidir continuar: Um software nunca para de evoluir se alguém não para de produzí-lo.
+   Se decidir continuar, é só começar novamente do princípio.
 
 E5R ALM SYSTEM
 ==============
