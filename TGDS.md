@@ -78,6 +78,9 @@ Para produzir um sóftware precisamos seguir o fluxo:
  * Entregar Átomos: Apresentar átomos prontos/não prontos
    > Não conseguiu construir NO PRAZO? É um átomo entregue como NÃO PRONTO
    > Empacotar e gerar versão da entrega
+ * Categorizar Órgãos: Quanso se chega ao final, com o produto entregue é possível
+   dizer a que categoria pertence cada órgão.
+ * Decidir continuar: Um software nunca para de evoluir se alguém não para de produzí-lo.
 
 E5R ALM SYSTEM
 ==============
@@ -87,8 +90,11 @@ E5R ALM SYSTEM
 1. Cada quadro acima representa um STATUS em um processo de desenvolvimento de software.
 2. Cada ETAPA deve ter um tempo limite para execução.
    > Cada número acima de cada quadro representa o prazo para sua execução, em proporção de unidade
+   
    > Esse tempo deve ser determinado por cada gestor de projeto
+      
    > Porém, deve seguir uma proporção de uma mesma unidade
+   
    > Se uma unidade foi definida para 10 minutos. O tempo limite para cada etape é a multiplicação
      de seu número x 10 minutos.
 3. As etapas são sucessivas.
