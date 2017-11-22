@@ -46,7 +46,7 @@ Para implantar o processo de ALM apresentado neste guia em um projeto e/ou corpo
 * [Definição de RUP][RUP_WIKI]
 * [Definição de TI][TI_WIKI]
 
-> Leia também [TGDS][TGDS] e [PE][PE]
+> Leia também [TGDS][TGDS], [PE][PE] e [SEP][SEP]
 
 [E5R]: https://e5r.github.io "E5R Development Team"
 [ALM_WIKI]: https://pt.wikipedia.org/wiki/Application_lifecycle_management "Application Lifecycle Management"
@@ -59,3 +59,4 @@ Para implantar o processo de ALM apresentado neste guia em um projeto e/ou corpo
 [NOTICIA_FALTA_TI]: http://classificados.folha.uol.com.br/empregos/2014/06/1466085-faltam-45-mil-profissionais-de-ti-no-brasil.shtml
 [TGDS]: TGDS.md
 [PE]: PE.md
+[SEP]: SEP.md
