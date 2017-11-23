@@ -31,12 +31,15 @@ Para implantar o processo de ALM apresentado neste guia em um projeto e/ou corpo
 
 1. Publique em um canal oficial de sua corporação/equipe uma nota de aderência ao processo ALM deste guia,
    incluindo a versão adotada, e na nota a explícita aceitação aos termos da licença disponível no
-   arquivo _LICENSE_;
+   arquivo _[LICENSE.txt][LICENSE]_;
 2. Caso haja aceitação a novas versões, essa deve ser divulgada novamente no canal oficial;
 3. Treinar sua equipe e seguí-lo.
 
+### Estudando
 
-# Referências
+Para estudar este guia leia os arquivos contidos no diretório __DOC__ deste repositório. Comece pelo arquivo [INDEX.md][INDEX_DOC]
+
+## Referências
 
 * [Definição ALM][ALM_WIKI]
 * [Definição de Engenharia de Software][ENG_WIKI]
@@ -46,7 +49,7 @@ Para implantar o processo de ALM apresentado neste guia em um projeto e/ou corpo
 * [Definição de RUP][RUP_WIKI]
 * [Definição de TI][TI_WIKI]
 
-> Leia também [TGDS][TGDS], [PE][PE] e [SEP][SEP]
+> Leia também os rascunhos [TGDS][TGDS], [PE][PE] e [SEP][SEP]
 
 [E5R]: https://e5r.github.io "E5R Development Team"
 [ALM_WIKI]: https://pt.wikipedia.org/wiki/Application_lifecycle_management "Application Lifecycle Management"
@@ -57,6 +60,8 @@ Para implantar o processo de ALM apresentado neste guia em um projeto e/ou corpo
 [RUP_WIKI]: https://pt.wikipedia.org/wiki/IBM_Rational_Unified_Process "RUP"
 [TI_WIKI]: https://pt.wikipedia.org/wiki/Tecnologia_da_informa%C3%A7%C3%A3o
 [NOTICIA_FALTA_TI]: http://classificados.folha.uol.com.br/empregos/2014/06/1466085-faltam-45-mil-profissionais-de-ti-no-brasil.shtml
-[TGDS]: TGDS.md
-[PE]: PE.md
-[SEP]: SEP.md
+[INDEX_DOC]: doc/INDEX.md
+[LICENSE]: LICENSE.txt
+[TGDS]: doc/draft/TGDS.md
+[PE]: doc/draft/PE.md
+[SEP]: doc/draft/SEP.md

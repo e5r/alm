@@ -69,7 +69,7 @@ em um arquivo textual simples, que passa por um crivo de avaliação, e se aprov
 com os padrões determinados pela equipe e por fim, implementado e liberado em uma nova versão do
 software.
 
-Então nosso diretório de documentação terá essa estrutura:
+Então nosso diretório de documentação (_Projeto de Especificação_ - leia [PE] para mais informações) terá essa estrutura:
 
 ```
 + doc/
@@ -81,6 +81,8 @@ Então nosso diretório de documentação terá essa estrutura:
   + seps/
     sep-01-feature-a.md
     sep-02-feature-b.md
+    sep-04-feature-d.md
+  + rejected/
     sep-03-feature-c.md
   index.md
 README.md      
@@ -90,28 +92,28 @@ O arquivo **README.md** você já conhece, nele temos um link para as funcionali
 arquivo **doc/index.md**), nesse arquivo estão listadas todas as funcionalidades e as propostas
 que estão sendo analisadas.
 
-No exemplo acima, temos duas funcionalidades já prontas (**doc/specs/feature-a.md** e
+> Ainda temos alguns arquivos que foram omitidos aqui para simplificar o entendimento. Seriam eles: doc/global-messages.md (mensagens globais), doc/global-business-rules.md (regras de negócio globais) e doc/global-presentation-rules.md (regras de apresentação globais)
+
+No exemplo acima, temos duas funcionalidades já aceitas (**doc/specs/feature-a.md** e
 **doc/specs/feature-b.md**), essas são especificações das funcionalidades em si, e cada uma delas
 pode conter outros arquivos de especificação auxiliares (nos subdiretórios **doc/specs/feature-a/**
-e **doc/specs/feature-b/**).
+e **doc/specs/feature-b/**) com regras de negócio, de apresentação, protótipos, etc.
 
 Ao mesmo tempo podemos ver que elas foram originadas de **SEP's** (**doc/seps/sep-01-feature-a.md** e
 **doc/seps/sep-01-feature-b.md**). Também podemos perceber que existe uma proposta que ainda está
-em andamento (**doc/seps/sep-03.feature-c.md**), e sabemos que ela ainda está em andamento porque não
+em andamento (**doc/seps/sep-0.feature-d.md**), e sabemos que ela ainda está em andamento porque não
 existe uma especificação para ela (uma especificação seria um arquivo de especificação em
-**doc/specs/** e um subdiretório para a mesma).
+**doc/specs/** e um subdiretório para a mesma). Por fim, percebemos que existe uma proposta que não foi aceita devido a existência do arquivo **doc/rejected/sep-03-feature-c.md**.
 
-Com isso, mesmo que você não use uma ferramenta para gerenciar o projeto, você consegue gerenciar
-de forma ordenada o processo de evolução do seu softwares.
+Com isso, mesmo que você não tenha uma ferramenta para gerenciar o projeto, ainda o conseguirá fazer, e de forma ordenada esse processo de evolução do seu softwares com um simples editor de textos.
 
 Não estamos reinventando a roda, muitos outros projetos importantes usam essa mesma técnica
-(vejam os links úteis abaixo). O que estamos propondo aqui é uma forma prática de usá-la em nossos
-projetos do dia a dia, e aproveitar seus benefícios para enriquecê-los.
+(vejam os links úteis abaixo). O que estamos propondo aqui é uma forma prática de aplicá-la a nossos projetos do dia a dia.
 
 ### Modelos
 
-* Um arquivo de proposta deve ter [Este formato][sep-template]
-* Um arquivo de especificação deve ter [Este formato][sep-spec-template]
+* Um exemplo de arquivo de proposta pode ser visto em [sep-template.md][sep-template]
+* Um exemplo de arquivo de especificação pode ser visto em [sep-spec-template.md][sep-spec-template]
 
 ## Links úteis
 
