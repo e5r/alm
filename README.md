@@ -25,7 +25,7 @@ Este guia é desenvolvido e entregue de forma incremental, seguindo o próprio m
 
 Dessa forma, uma versão final e mais completa do processo estará sempre disponível abrangendo o maior número de cenários possíveis e com um maior número de projetos corporativos aderentes. Mas também, um processo mais simples sempre poderá ser seguido usando versões anteriores. E ainda, mesmo que a versão final e mais completa desse guia seja a mais adequada ao projeto requerido, sempre se poderá usar o incremento das versões como forma de capacitar os novos membros da equipe; atendendo desde aos menos experientes com o estudo à partir da primeira versão, quanto aos mais experientes à partir do ponto em que for mais adequado na linha de liberação de versões.
 
-### Implantando o processo em seu projeto/corporação usando este guia?
+### Quer implantar este processo em seu projeto/corporação?
 
 Para implantar o processo de ALM apresentado neste guia em um projeto e/ou corporação, siga os passos abaixo:
 
@@ -49,6 +49,7 @@ Para estudar este guia leia os arquivos contidos no diretório __DOC__ deste rep
 * [Definição de RUP][RUP_WIKI]
 * [Definição de TI][TI_WIKI]
 
+> Leia também os rascunhos [TGDS][TGDS], [PE][PE] e [SEP][SEP]
 
 [E5R]: https://e5r.github.io "E5R Development Team"
 [ALM_WIKI]: https://pt.wikipedia.org/wiki/Application_lifecycle_management "Application Lifecycle Management"
@@ -61,3 +62,6 @@ Para estudar este guia leia os arquivos contidos no diretório __DOC__ deste rep
 [NOTICIA_FALTA_TI]: http://classificados.folha.uol.com.br/empregos/2014/06/1466085-faltam-45-mil-profissionais-de-ti-no-brasil.shtml
 [INDEX_DOC]: doc/INDEX.md
 [LICENSE]: LICENSE.txt
+[TGDS]: doc/draft/TGDS.md
+[PE]: doc/draft/PE.md
+[SEP]: doc/draft/SEP.md
