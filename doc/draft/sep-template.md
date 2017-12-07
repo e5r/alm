@@ -17,7 +17,7 @@
 Por que estamos fazendo isso? Quem demandou? Em que caso será usado? Qual o resultado esperado?
 
 ### Problema/Oportunidade
-[problem-opportunity] #problem-opportunity
+[problem-opportunity]: #problem-opportunity
 
 Com base na estorinha de "pano de fundo", então tive o "estalo". Tchan-ranh!
 
