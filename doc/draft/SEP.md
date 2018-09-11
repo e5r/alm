@@ -121,6 +121,7 @@ Não estamos reinventando a roda, muitos outros projetos importantes usam essa m
 * [PHP Standards Recommendations][PSR]
 * [C# Language Proposals][CSLP]
 * [Java Specification Requests][JSR]
+* [Rust RFCs][RUST-RFC]
 
 [PE]: PE.md
 [UC]: https://pt.wikipedia.org/wiki/Caso_de_uso
@@ -136,3 +137,4 @@ Não estamos reinventando a roda, muitos outros projetos importantes usam essa m
 [JSR]: https://www.jcp.org/en/jsr/all
 [sep-template]: sep-template.md
 [sep-spec-template]: sep-spec-template.md
+[RUST-RFC]: https://github.com/rust-lang/rfcs
