@@ -3,6 +3,12 @@ SEP - Software Evolution Proposal
 
 **Em português:** PES - Proposta de Evolução de Software
 
+> Nota: A nomenclatura ainda carece de revisão, mas a ideia por tráz é refletir os vários processos
+> listados ao final dessa seção em sua base fundamental, ou seja, o fato de haver uma proposta
+> inicial, uma revisão e aprovação, uma especificação (não necessariamente nesta ordem), uma
+> implementação, uma avaliação e aprovação de tal implementação, e por fim uma integração e
+> lançamento oficial.
+
 ## Resumo
 
 Toda evolução de um software é __causada__ por uma idéia. E idéias devem ser explanadas
@@ -122,6 +128,7 @@ Não estamos reinventando a roda, muitos outros projetos importantes usam essa m
 * [C# Language Proposals][CSLP]
 * [Java Specification Requests][JSR]
 * [Rust RFCs][RUST-RFC]
+* [Tcl Improvement Proposals][TCL-TIP]
 
 [PE]: PE.md
 [UC]: https://pt.wikipedia.org/wiki/Caso_de_uso
@@ -138,3 +145,4 @@ Não estamos reinventando a roda, muitos outros projetos importantes usam essa m
 [sep-template]: sep-template.md
 [sep-spec-template]: sep-spec-template.md
 [RUST-RFC]: https://github.com/rust-lang/rfcs
+[TCL-TIP]: https://core.tcl-lang.org/tips/doc/trunk/tip/0.md
