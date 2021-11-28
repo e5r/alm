@@ -16,7 +16,15 @@ Contento por exemplo:
 * Manuais
 * Etc.
 
-> **Nota 1**: Uma tela (protótipo) referencia as funcionalidades usadas, que por sua vez refernencia as
-  regras, que referenciam as mensagens. E ainda tem os manuais e etc.
-  
-> **Nota 2**: A parti de qualquer item, pode-se chegar a todos os outros.
+Regras que definem um projeto de especificação
+----------------------------------------------
+
+* Os arquivos devem ser textuais, portanto podem usar qualquer extensão de arquivo texto conhecido,
+  mas todos devem usar a mesma extensão
+  - Exemplos de extensão: `.txt`, `.md`, `.org`, `.rst`
+* Deve haver um arquivo inicial chamado `index` ou `home`
+  - Por não ser _case sensitive_, não importa se é `home` ou `Home, ou `HOME`, mas sugerimos usar
+    tudo em minúsculo.
+* Não devem haver os dois arquivos iniciais, `index` e `home`, somente um dos dois
+* Os demais arquivos podem seguir qualquer estrutura, inclusive em subdiretórios aninhados, mas
+  todos devem estar ligados de alguma forma ao arquivo inicial.
