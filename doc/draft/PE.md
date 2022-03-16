@@ -7,7 +7,7 @@ Dessa forma pode evoluir junto ao próprio sowftware.
 
 > Tanto o software quanto sua documentação são incrementais e podem evoluir.
 
-Contento por exemplo:
+Contendo por exemplo:
 
 * Funcionalidades
 * Regras (de Negócio ou Apreasentação)
@@ -24,7 +24,7 @@ Regras que definem um projeto de especificação
   - Exemplos de extensão: `.txt`, `.md`, `.org`, `.rst`
   - Recomendamos o uso da extensão `.md` [Markdown](https://pt.wikipedia.org/wiki/Markdown)
 * Deve haver um arquivo inicial chamado `index` ou `home` na raiz do projeto
-  - Por não ser _case sensitive_, não importa se é `home` ou `Home, ou `HOME`
+  - Por não ser _case sensitive_, não importa se é `home` ou `Home`, ou `HOME`
   - Recomendamos usar `home`, com tudo em minúsculo
 * Não devem haver os dois arquivos iniciais, `index` e `home`, somente um dos dois
 * Os demais arquivos podem seguir qualquer estrutura, inclusive em subdiretórios aninhados, mas
@@ -34,4 +34,4 @@ Regras que definem um projeto de especificação
 * O seu processo documentado em `workflow` vai definir como a documentação deverá ser escrita,
   por isso você também deve fornecer na raiz do projeto um arquivo `template` contendo um exemplo
   de como os documentos devem ser escritos. Caso você use mais de um _template_ use um subdiretório
-  chamado `template` e lá vários arquivos com os exemplos.
+  chamado `templates` e lá vários arquivos com os exemplos.
