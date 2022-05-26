@@ -29,6 +29,8 @@ As funcionalidades relacionadas são de níveis:
 
 ## Equipe envolvida
 
+* `editores`: Nomes, nicks, e-mails
+  - Notas, links para PR's
 * `revisores`: Nomes, nicks, e-mails
   - Notas, links para PR's
 * `aceite`: Nomes, nicks, e-mails
